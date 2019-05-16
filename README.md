@@ -719,6 +719,7 @@ What are some ideas for improvements?
 
 Learning resources:
 
+- [Python Fundamentals: accelearated TUITION CREDIT AVAILABLE!!](https://www.eventbrite.com/e/python-fundamentals-accelerated-6319-62019-tickets-61111366743)
 - [Galvanize Data Science Prep Course](https://www.galvanize.com/data-science-prep) - FREE | study at your own pace
 
 - [Galvanize Data Science Premium Prep] (https://www.galvanize.com/data-science/prep/premium-prep-registration) - 250$ | Receive live online support and personal progress updates
