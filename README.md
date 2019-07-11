@@ -2,12 +2,16 @@
 
 Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com).
 
-Get to this repo by typing in URL: **https://github.com/thomas-bell/intro-to-python**
+Get to this repo by typing in URL: **https://github.com/rosiemin/intro-to-python**
 
 ### FAQ: 
 
-- WIFI: 'GEvents` | Password: GEvents1644
+- Network: `GEvents` 
+
+- Password: `GEvents1644`
+
 - Restrooms: Behind you down the hall to the right
+
 - Kitchen outside with Coffee,Tea, and Pizza!
 
 ## Overview
@@ -57,9 +61,9 @@ Get the most out of this workshop! We'll occasionally do a "CHALLENGE" where I g
 
 ## About me:
 
-Kevin Kaltenbacher CFA, CFP - associate data science instructor - data scientist 
-https://www.linkedin.com/in/kevin-kaltenbacher/
+Hello I'm [Rosie Martinez, MPH, ScD](). I'm a former Data Science Immersive Student (Graduated April 2019) and currently work as a Data Scientist for a local AdTech company here in the Denver metro area.  I love all things data and teaching! 
 
+You can connect with me on my [LinkedIn here!](https://www.linkedin.com/in/rosiemin/).
 
 
 ## About you!
