@@ -1,4 +1,4 @@
-# Learn to Code: Introduction to Python
+# Learn to Code: Introduction to Python!!
 
 Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com).
 
