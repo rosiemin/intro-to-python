@@ -755,9 +755,8 @@ Visit the [Learn to code Denver and Colorado Data Science](https://www.meetup.co
 
 #### Part-Time Courses
 
-- [Digital Marketing with Data](
-- [Python Fundamentals](
-- [Introduction to Data Science] (
+- [Python Fundamentals]
+
 
 #### Co-working Space
 
@@ -774,7 +773,7 @@ Please feel free to reach out to me with any questions! Let me know what you're 
 -Email 
 
 
-Questions about education at Galvanize email [travis@galvanize.com](travis.com
+Questions about education at Galvanize email [travis@galvanize.com](travis@galvanize.com)
 
 
 
