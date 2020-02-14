@@ -59,13 +59,6 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 Get the most out of this workshop! We'll occasionally do a "CHALLENGE" where I give you an exercise to do in several minutes. It can be even more effective to partner up with someone next to you, but you can work on your own if you want. No pressure to solve the challenge. I'll share how I would solve it after the time is up.
 
 
-## About me:
-
-Hello I'm [Rosie Martinez, MPH, ScD](). I'm a former Data Science Immersive Student (Graduated April 2019) and currently work as a Data Scientist for a local AdTech company here in the Denver metro area.  I love all things data and teaching! 
-
-You can connect with me on my [LinkedIn here!](https://www.linkedin.com/in/rosiemin/).
-
-
 ## About you!
 
 Give a quick Intro!
@@ -723,10 +716,10 @@ What are some ideas for improvements?
 
 Learning resources:
 
-- [Python Fundamentals: accelearated TUITION CREDIT AVAILABLE!!](https://www.eventbrite.com/e/python-fundamentals-accelerated-6319-62019-tickets-61111366743)
+- [Python Fundamentals: accelearated TUITION CREDIT AVAILABLE!!]
 - [Galvanize Data Science Prep Course](https://www.galvanize.com/data-science-prep) - FREE | study at your own pace
 
-- [Galvanize Data Science Premium Prep] (https://www.galvanize.com/data-science/prep/premium-prep-registration) - 250$ | Receive live online support and personal progress updates
+- [Galvanize Data Science Premium Prep] (https://www.galvanize.com/data-science/prep/premium-prep-registration)
 
 - [w3schools](https://www.w3schools.com/python/default.asp) | Free
 
