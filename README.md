@@ -32,9 +32,9 @@ This sounds simple but it can get complicated!
 
 #### Please set up the following:
 
-* A web browser to see what we're working on as others see it (Recommend Google Chrome): [chrome.google.com] (http://chrome.google.com)
+* A web browser to see what we're working on as others see it (Recommend Google Chrome): [chrome.google.com](http://chrome.google.com)
 
-* We will be using an online notebook for this workshop. You can access it here: **[Google Colab Notebook]**(https://colab.research.google.com/drive/1iDMr9Y9JVhb9bQpO_KluiKBWLwuPYHe5)
+* We will be using an online notebook for this workshop. You can access it here: [**Google Colab Notebook**](https://colab.research.google.com/drive/1iDMr9Y9JVhb9bQpO_KluiKBWLwuPYHe5)
 
 
 Well... that was easy! Let's head to the notebook now!
