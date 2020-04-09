@@ -32,9 +32,9 @@ This sounds simple but it can get complicated!
 
 #### Please set up the following:
 
-* A web browser to see what we're working on as others see it (Recommend Google Chrome: [chrome.google.com] (http://chrome.google.com))
+* A web browser to see what we're working on as others see it (Recommend Google Chrome): [chrome.google.com] (http://chrome.google.com)
 
-* We will be using an online notebook for this workshop. You can access it here: [Google Colab Notebook](https://colab.research.google.com/drive/1iDMr9Y9JVhb9bQpO_KluiKBWLwuPYHe5)
+* We will be using an online notebook for this workshop. You can access it here: **[Google Colab Notebook]**(https://colab.research.google.com/drive/1iDMr9Y9JVhb9bQpO_KluiKBWLwuPYHe5)
 
 
 Well... that was easy! Let's head to the notebook now!
@@ -77,7 +77,7 @@ Learning resources:
 
 - [Galvanize Data Science Prep Course](https://www.galvanize.com/data-science-prep) - FREE | study at your own pace
 
-- [Galvanize Data Science Premium Prep] (https://www.galvanize.com/data-science/prep/premium-prep-registration)
+- [Galvanize Data Science Premium Prep](https://www.galvanize.com/data-science/prep/premium-prep-registration)
 
 - [w3schools](https://www.w3schools.com/python/default.asp) | Free
 
@@ -90,7 +90,7 @@ Learning resources:
 
 We host so many events! check out our [calendar](https://www.galvanize.com/events)
 
-Visit the [Learn to code Denver and Colorado Data Science](https://www.meetup.com/learn-to-code-colorado/) (https://www.meetup.com/Colorado-Data-Science/) meetup for all upcoming events.
+Visit the [Learn to code Denver](https://www.meetup.com/learn-to-code-colorado/) and [Colorado Data Science](https://www.meetup.com/Colorado-Data-Science/) meetup for all upcoming events.
 
 
 ## What is Galvanize?
@@ -108,7 +108,7 @@ Visit the [Learn to code Denver and Colorado Data Science](https://www.meetup.co
 
 #### Co-working Space
 
-[work in our building!](https://www.galvanize.com/entrepreneur)
+- [work in our building!](https://www.galvanize.com/entrepreneur)
 
 #### We are a community
 
